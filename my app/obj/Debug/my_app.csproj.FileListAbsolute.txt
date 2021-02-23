@@ -1,0 +1,75 @@
+c:\users\jhay\documents\visual studio 2013\Projects\my app\my app\bin\Debug\my app.exe.config
+c:\users\jhay\documents\visual studio 2013\Projects\my app\my app\bin\Debug\my app.exe
+c:\users\jhay\documents\visual studio 2013\Projects\my app\my app\bin\Debug\my app.pdb
+c:\users\jhay\documents\visual studio 2013\Projects\my app\my app\obj\Debug\my app.csprojResolveAssemblyReference.cache
+c:\users\jhay\documents\visual studio 2013\Projects\my app\my app\obj\Debug\my_app.Form1.resources
+c:\users\jhay\documents\visual studio 2013\Projects\my app\my app\obj\Debug\my_app.Properties.Resources.resources
+c:\users\jhay\documents\visual studio 2013\Projects\my app\my app\obj\Debug\my app.csproj.GenerateResource.Cache
+c:\users\jhay\documents\visual studio 2013\Projects\my app\my app\obj\Debug\my app.exe
+c:\users\jhay\documents\visual studio 2013\Projects\my app\my app\obj\Debug\my app.pdb
+C:\Users\Admin\Desktop\New folder\my app\my app\bin\Debug\my app.exe.config
+C:\Users\Admin\Desktop\New folder\my app\my app\obj\Debug\my app.exe
+C:\Users\Admin\Desktop\New folder\my app\my app\obj\Debug\my app.pdb
+C:\Users\Admin\Desktop\New folder\my app\my app\bin\Debug\my app.exe
+C:\Users\Admin\Desktop\New folder\my app\my app\bin\Debug\my app.pdb
+C:\Users\Admin\Desktop\New folder\my app\my app\obj\Debug\my_app.Form1.resources
+C:\Users\Admin\Desktop\New folder\my app\my app\obj\Debug\my_app.Properties.Resources.resources
+C:\Users\Admin\Desktop\New folder\my app\my app\obj\Debug\my app.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\New folder\my app\my app\obj\Debug\my_app.menu.resources
+C:\Users\Admin\Desktop\New folder\my app\my app\obj\Debug\my_app.register.resources
+C:\Users\Admin\Desktop\New folder\my app\my app\obj\Debug\my_app.admincon.resources
+C:\Users\Admin\Desktop\New folder\my app\my app\obj\Debug\my_app.ADMINREG.resources
+C:\Users\Admin\Desktop\New folder\my app\my app\bin\Debug\nstp .accdb
+C:\Users\Admin\Desktop\New folder\my app\my app\obj\Debug\my_app.edit.resources
+C:\Users\Admin\Desktop\New folder\my app\my app\obj\Debug\my_app.load.resources
+C:\Users\Admin\Desktop\New folder\my app\my app\obj\Debug\my_app.grade.resources
+C:\Users\Admin\Desktop\New folder\my app\my app\obj\Debug\my_app.deluser.resources
+C:\Users\Admin\Desktop\New folder\my app\my app\obj\Debug\my app.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\New folder\my app\my app\obj\Debug\my_app.view_delete.resources
+C:\Users\Admin\Desktop\New folder\my app\my app\bin\Debug\MANSMS,DATABASE.mdb
+C:\Users\Admin\Desktop\New folder\my app\my app\obj\Debug\my_app.delstudent.resources
+C:\Users\Admin\Desktop\New folder\my app\my app\obj\Debug\my_app.droplist.resources
+C:\Users\Admin\Desktop\my app\my app\bin\Debug\MANSMS,DATABASE.mdb
+C:\Users\Admin\Desktop\my app\my app\bin\Debug\nstp .accdb
+C:\Users\Admin\Desktop\my app\my app\bin\Debug\my app.exe.config
+C:\Users\Admin\Desktop\my app\my app\bin\Debug\my app.exe
+C:\Users\Admin\Desktop\my app\my app\bin\Debug\my app.pdb
+C:\Users\Admin\Desktop\my app\my app\obj\Debug\my app.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\my app\my app\obj\Debug\my_app.admincon.resources
+C:\Users\Admin\Desktop\my app\my app\obj\Debug\my_app.ADMINREG.resources
+C:\Users\Admin\Desktop\my app\my app\obj\Debug\my_app.delstudent.resources
+C:\Users\Admin\Desktop\my app\my app\obj\Debug\my_app.deluser.resources
+C:\Users\Admin\Desktop\my app\my app\obj\Debug\my_app.droplist.resources
+C:\Users\Admin\Desktop\my app\my app\obj\Debug\my_app.edit.resources
+C:\Users\Admin\Desktop\my app\my app\obj\Debug\my_app.Form1.resources
+C:\Users\Admin\Desktop\my app\my app\obj\Debug\my_app.grade.resources
+C:\Users\Admin\Desktop\my app\my app\obj\Debug\my_app.load.resources
+C:\Users\Admin\Desktop\my app\my app\obj\Debug\my_app.menu.resources
+C:\Users\Admin\Desktop\my app\my app\obj\Debug\my_app.Properties.Resources.resources
+C:\Users\Admin\Desktop\my app\my app\obj\Debug\my_app.register.resources
+C:\Users\Admin\Desktop\my app\my app\obj\Debug\my_app.view_delete.resources
+C:\Users\Admin\Desktop\my app\my app\obj\Debug\my app.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\my app\my app\obj\Debug\my app.exe
+C:\Users\Admin\Desktop\my app\my app\obj\Debug\my app.pdb
+C:\Users\Admin\Documents\MYDocuments\my app\my app\bin\Debug\MANSMS,DATABASE.mdb
+C:\Users\Admin\Documents\MYDocuments\my app\my app\bin\Debug\nstp .accdb
+C:\Users\Admin\Documents\MYDocuments\my app\my app\bin\Debug\my app.exe.config
+C:\Users\Admin\Documents\MYDocuments\my app\my app\bin\Debug\my app.exe
+C:\Users\Admin\Documents\MYDocuments\my app\my app\bin\Debug\my app.pdb
+C:\Users\Admin\Documents\MYDocuments\my app\my app\obj\Debug\my app.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\MYDocuments\my app\my app\obj\Debug\my_app.admincon.resources
+C:\Users\Admin\Documents\MYDocuments\my app\my app\obj\Debug\my_app.ADMINREG.resources
+C:\Users\Admin\Documents\MYDocuments\my app\my app\obj\Debug\my_app.delstudent.resources
+C:\Users\Admin\Documents\MYDocuments\my app\my app\obj\Debug\my_app.deluser.resources
+C:\Users\Admin\Documents\MYDocuments\my app\my app\obj\Debug\my_app.droplist.resources
+C:\Users\Admin\Documents\MYDocuments\my app\my app\obj\Debug\my_app.edit.resources
+C:\Users\Admin\Documents\MYDocuments\my app\my app\obj\Debug\my_app.Form1.resources
+C:\Users\Admin\Documents\MYDocuments\my app\my app\obj\Debug\my_app.grade.resources
+C:\Users\Admin\Documents\MYDocuments\my app\my app\obj\Debug\my_app.load.resources
+C:\Users\Admin\Documents\MYDocuments\my app\my app\obj\Debug\my_app.menu.resources
+C:\Users\Admin\Documents\MYDocuments\my app\my app\obj\Debug\my_app.Properties.Resources.resources
+C:\Users\Admin\Documents\MYDocuments\my app\my app\obj\Debug\my_app.register.resources
+C:\Users\Admin\Documents\MYDocuments\my app\my app\obj\Debug\my_app.view_delete.resources
+C:\Users\Admin\Documents\MYDocuments\my app\my app\obj\Debug\my app.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\MYDocuments\my app\my app\obj\Debug\my app.exe
+C:\Users\Admin\Documents\MYDocuments\my app\my app\obj\Debug\my app.pdb
